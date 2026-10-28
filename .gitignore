@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# MATLAB generated output (not part of this release)
+figure_code/Cache/
+figure_code/Out/
+figure_code/In/
+*.asv
+*.m~

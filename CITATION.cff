@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software record and the associated article when available."
+title: "Code for Global phytoplankton responses to spatiotemporally continuous marine heatwaves and cold spells"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Ren
+    given-names: Jie
+    affiliation: "Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences"
+  - family-names: Yao
+    given-names: Yulong
+    affiliation: "Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences"
+  - family-names: Wang
+    given-names: Chunzai
+    affiliation: "South China Sea Institute of Oceanology, Chinese Academy of Sciences"
+abstract: >-
+  Code for the main-text figures of a study of global chlorophyll-a,
+  model-derived phytoplankton size-class, and mixed-layer-depth responses to
+  spatiotemporally continuous marine heatwaves and cold spells during
+  2001–2023. The archive contains the plotting and figure-assembly scripts
+  for Figures 1–6; the upstream event-detection and clustering pipeline, the
+  supplementary-figure code, and all input data are not included.
+keywords:
+  - marine heatwaves
+  - marine cold spells
+  - chlorophyll-a
+  - phytoplankton size classes
+  - mixed-layer depth
+  - spatiotemporal clustering
+  - DBSCAN
+  - remote sensing
